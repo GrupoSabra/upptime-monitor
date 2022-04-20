@@ -11,8 +11,12 @@ sites:
     url: http://grupo-sabra-public-01.eastus.cloudapp.azure.com:40090
   - name: Jenkins
     url: https://jenkins.gruposabra.com:64443
+    expectedStatusCodes:
+     - 301
   - name: Jenkins2
     url: https://jenkins2.gruposabra.com:64443
+    expectedStatusCodes:
+     - 301
   - name: ANHPPAA-DEV
     url: https://blockchainppaa.gruposabra.com
   - name: ANHPPAA-QA
