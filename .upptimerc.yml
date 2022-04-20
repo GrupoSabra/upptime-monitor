@@ -12,11 +12,11 @@ sites:
   - name: Jenkins
     url: https://jenkins.gruposabra.com:64443
     expectedStatusCodes:
-     - 301
+     - 401
   - name: Jenkins2
     url: https://jenkins2.gruposabra.com:64443
     expectedStatusCodes:
-     - 301
+     - 401
   - name: ANHPPAA-DEV
     url: https://blockchainppaa.gruposabra.com
   - name: ANHPPAA-QA
