@@ -10,9 +10,9 @@ sites:
   - name: Grafana
     url: http://grupo-sabra-public-01.eastus.cloudapp.azure.com:40090
   - name: Jenkins
-    url: https://jenkins.gruposabra.com
+    url: https://jenkins.gruposabra.com:64443
   - name: Jenkins2
-    url: https://jenkins2.gruposabra.com
+    url: https://jenkins2.gruposabra.com:64443
   - name: ANHPPAA-DEV
     url: https://blockchainppaa.gruposabra.com
   - name: ANHPPAA-QA
