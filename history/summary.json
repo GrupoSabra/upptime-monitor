@@ -4,18 +4,20 @@
     "url": "https://documentsigner.gruposabra.com",
     "icon": "https://favicons.githubusercontent.com/documentsigner.gruposabra.com",
     "slug": "document-signer-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 299,
-    "timeDay": 459,
-    "timeWeek": 292,
-    "timeMonth": 277,
-    "timeYear": 299,
-    "dailyMinutesDown": {}
+    "time": 296,
+    "timeDay": 296,
+    "timeWeek": 272,
+    "timeMonth": 273,
+    "timeYear": 296,
+    "dailyMinutesDown": {
+      "2022-06-08": 0
+    }
   },
   {
     "name": "Zabbix",
@@ -128,7 +130,7 @@
     "timeMonth": 217,
     "timeYear": 235,
     "dailyMinutesDown": {
-      "2022-06-08": 21,
+      "2022-06-08": 939,
       "2022-06-07": 1440,
       "2022-06-06": 1440,
       "2022-06-05": 1440,
