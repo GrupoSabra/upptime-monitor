@@ -5,6 +5,10 @@ repo: upptime # The name of this repository
 sites:
   - name: DocumentSignerDev
     url: https://documentsigner.gruposabra.com
+  - name: ANHPPAA-DEV
+    url: https://blockchainppaa.gruposabra.com
+  - name: INCUCAI-DocumentSigner-dev
+    url: https://incucai-documentsigner.gruposabra.com
   - name: Zabbix
     url: http://grupo-sabra-public-01.eastus.cloudapp.azure.com:40080
   - name: Grafana
@@ -17,8 +21,6 @@ sites:
     url: https://jenkins2.gruposabra.com:64443
     expectedStatusCodes:
      - 401
-  - name: ANHPPAA-DEV
-    url: https://blockchainppaa.gruposabra.com
   - name: ANHPPAA-QA
     url: https://blockchainppaaqa.gruposabra.com
 
