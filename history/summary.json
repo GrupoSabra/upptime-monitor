@@ -37,7 +37,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/blockchainppaa.gruposabra.com.ico",
     "slug": "anhppaa-dev",
     "status": "up",
-    "uptime": "98.26%",
+    "uptime": "98.27%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -104,10 +104,10 @@
     "url": "http://grupo-sabra-public-01.eastus.cloudapp.azure.com:40080",
     "icon": "https://icons.duckduckgo.com/ip3/grupo-sabra-public-01.eastus.cloudapp.azure.com.ico",
     "slug": "zabbix",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 97,
@@ -116,6 +116,7 @@
     "timeMonth": 96,
     "timeYear": 92,
     "dailyMinutesDown": {
+      "2023-07-24": 2,
       "2022-10-18": 19
     }
   },
@@ -124,9 +125,9 @@
     "url": "http://grupo-sabra-public-01.eastus.cloudapp.azure.com:40090",
     "icon": "https://icons.duckduckgo.com/ip3/grupo-sabra-public-01.eastus.cloudapp.azure.com.ico",
     "slug": "grafana",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -136,6 +137,7 @@
     "timeMonth": 165,
     "timeYear": 148,
     "dailyMinutesDown": {
+      "2023-07-24": 0,
       "2022-10-18": 17
     }
   },
@@ -217,7 +219,7 @@
     "timeMonth": 260,
     "timeYear": 206,
     "dailyMinutesDown": {
-      "2023-07-24": 24,
+      "2023-07-24": 850,
       "2023-07-23": 1440,
       "2023-07-22": 1440,
       "2023-07-21": 1440,
