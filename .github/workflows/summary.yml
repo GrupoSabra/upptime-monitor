@@ -15,9 +15,9 @@
 
 
 name: Summary CI
-on: [push]
-#  schedule:
-#    - cron: "0 0 * * *"
+on:
+  schedule:
+    - cron: "0 0 * * *"
   repository_dispatch:
     types: [summary]
   workflow_dispatch:
