@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/documentsigner.gruposabra.com.ico",
     "slug": "document-signer-dev",
     "status": "down",
-    "uptime": "61.26%",
+    "uptime": "61.19%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "17.18%",
-    "time": 255,
+    "time": 256,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 259,
     "dailyMinutesDown": {
-      "2024-06-18": 23,
+      "2024-06-19": 22,
+      "2024-06-18": 1440,
       "2024-06-17": 1440,
       "2024-06-16": 1440,
       "2024-06-15": 1440,
@@ -316,8 +317,7 @@
       "2023-08-26": 1440,
       "2023-08-25": 1034,
       "2023-06-22": 823,
-      "2023-06-21": 1440,
-      "2023-06-20": 1440
+      "2023-06-21": 1440
     }
   },
   {
@@ -326,18 +326,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/blockchainppaa.gruposabra.com.ico",
     "slug": "anhppaa-dev",
     "status": "down",
-    "uptime": "73.56%",
+    "uptime": "73.46%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "43.75%",
-    "time": 188,
+    "time": 189,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 191,
     "dailyMinutesDown": {
-      "2024-06-18": 23,
+      "2024-06-19": 22,
+      "2024-06-18": 1440,
       "2024-06-17": 1440,
       "2024-06-16": 1440,
       "2024-06-15": 1440,
@@ -542,8 +543,7 @@
       "2023-11-09": 1305,
       "2023-09-20": 52,
       "2023-06-22": 823,
-      "2023-06-21": 1440,
-      "2023-06-20": 1440
+      "2023-06-21": 1440
     }
   },
   {
@@ -552,7 +552,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/incucai-documentsigner.gruposabra.com.ico",
     "slug": "incucai-document-signer-dev",
     "status": "down",
-    "uptime": "70.79%",
+    "uptime": "70.69%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -563,7 +563,8 @@
     "timeMonth": 0,
     "timeYear": 250,
     "dailyMinutesDown": {
-      "2024-06-18": 23,
+      "2024-06-19": 22,
+      "2024-06-18": 1440,
       "2024-06-17": 1440,
       "2024-06-16": 1440,
       "2024-06-15": 1440,
@@ -768,8 +769,7 @@
       "2023-11-09": 1305,
       "2023-09-20": 52,
       "2023-06-22": 823,
-      "2023-06-21": 1440,
-      "2023-06-20": 1440
+      "2023-06-21": 1440
     }
   },
   {
@@ -778,18 +778,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/grupo-sabra-public-01.eastus.cloudapp.azure.com.ico",
     "slug": "zabbix",
     "status": "down",
-    "uptime": "58.26%",
+    "uptime": "58.19%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "9.75%",
-    "time": 1203,
+    "uptimeYear": "9.47%",
+    "time": 1207,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 2267,
+    "timeYear": 2283,
     "dailyMinutesDown": {
-      "2024-06-18": 23,
+      "2024-06-19": 22,
+      "2024-06-18": 1440,
       "2024-06-17": 1440,
       "2024-06-16": 1440,
       "2024-06-15": 1440,
@@ -1128,18 +1129,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/grupo-sabra-public-01.eastus.cloudapp.azure.com.ico",
     "slug": "grafana",
     "status": "down",
-    "uptime": "58.26%",
+    "uptime": "58.19%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "9.75%",
-    "time": 1151,
+    "uptimeYear": "9.47%",
+    "time": 1155,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 2110,
+    "timeYear": 2123,
     "dailyMinutesDown": {
-      "2024-06-18": 23,
+      "2024-06-19": 22,
+      "2024-06-18": 1440,
       "2024-06-17": 1440,
       "2024-06-16": 1440,
       "2024-06-15": 1440,
@@ -1478,7 +1480,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/jenkins.gruposabra.com.ico",
     "slug": "jenkins",
     "status": "down",
-    "uptime": "73.55%",
+    "uptime": "73.46%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1489,7 +1491,8 @@
     "timeMonth": 0,
     "timeYear": 236,
     "dailyMinutesDown": {
-      "2024-06-18": 23,
+      "2024-06-19": 22,
+      "2024-06-18": 1440,
       "2024-06-17": 1440,
       "2024-06-16": 1440,
       "2024-06-15": 1440,
@@ -1695,8 +1698,7 @@
       "2023-09-20": 52,
       "2023-08-08": 15,
       "2023-06-22": 823,
-      "2023-06-21": 1440,
-      "2023-06-20": 1440
+      "2023-06-21": 1440
     }
   },
   {
@@ -1705,7 +1707,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/jenkins2.gruposabra.com.ico",
     "slug": "jenkins2",
     "status": "down",
-    "uptime": "73.56%",
+    "uptime": "73.46%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1716,7 +1718,8 @@
     "timeMonth": 0,
     "timeYear": 181,
     "dailyMinutesDown": {
-      "2024-06-18": 23,
+      "2024-06-19": 22,
+      "2024-06-18": 1440,
       "2024-06-17": 1440,
       "2024-06-16": 1440,
       "2024-06-15": 1440,
@@ -1921,8 +1924,7 @@
       "2023-11-09": 1305,
       "2023-09-20": 52,
       "2023-06-22": 823,
-      "2023-06-21": 1440,
-      "2023-06-20": 1440
+      "2023-06-21": 1440
     }
   },
   {
@@ -1942,7 +1944,8 @@
     "timeMonth": 0,
     "timeYear": 221,
     "dailyMinutesDown": {
-      "2024-06-18": 23,
+      "2024-06-19": 23,
+      "2024-06-18": 1440,
       "2024-06-17": 1440,
       "2024-06-16": 1440,
       "2024-06-15": 1440,
@@ -2305,8 +2308,7 @@
       "2023-06-24": 1440,
       "2023-06-23": 1440,
       "2023-06-22": 1440,
-      "2023-06-21": 1440,
-      "2023-06-20": 1440
+      "2023-06-21": 1440
     }
   }
 ]
