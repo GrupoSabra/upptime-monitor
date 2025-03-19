@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/documentsigner.gruposabra.com.ico",
     "slug": "document-signer-dev",
     "status": "down",
-    "uptime": "45.52%",
+    "uptime": "45.48%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
-    "time": 219,
+    "time": 214,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-18": 28,
+      "2025-03-19": 28,
+      "2025-03-18": 1440,
       "2025-03-17": 1440,
       "2025-03-16": 1440,
       "2025-03-15": 1440,
@@ -379,8 +380,7 @@
       "2024-03-23": 1440,
       "2024-03-22": 1440,
       "2024-03-21": 1440,
-      "2024-03-20": 1440,
-      "2024-03-19": 1440
+      "2024-03-20": 1440
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/blockchainppaa.gruposabra.com.ico",
     "slug": "anhppaa-dev",
     "status": "down",
-    "uptime": "54.65%",
+    "uptime": "54.60%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
-    "time": 157,
+    "time": 159,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-18": 28,
+      "2025-03-19": 28,
+      "2025-03-18": 1440,
       "2025-03-17": 1440,
       "2025-03-16": 1440,
       "2025-03-15": 1440,
@@ -763,8 +764,7 @@
       "2024-03-23": 1440,
       "2024-03-22": 1440,
       "2024-03-21": 1440,
-      "2024-03-20": 1440,
-      "2024-03-19": 1440
+      "2024-03-20": 1440
     }
   },
   {
@@ -773,18 +773,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/incucai-documentsigner.gruposabra.com.ico",
     "slug": "incucai-document-signer-dev",
     "status": "down",
-    "uptime": "51.27%",
+    "uptime": "51.22%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
-    "time": 192,
+    "time": 193,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-18": 28,
+      "2025-03-19": 28,
+      "2025-03-18": 1440,
       "2025-03-17": 1440,
       "2025-03-16": 1440,
       "2025-03-15": 1440,
@@ -1147,8 +1148,7 @@
       "2024-03-23": 1440,
       "2024-03-22": 1440,
       "2024-03-21": 1440,
-      "2024-03-20": 1440,
-      "2024-03-19": 1440
+      "2024-03-20": 1440
     }
   },
   {
@@ -1157,18 +1157,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/grupo-sabra-public-01.eastus.cloudapp.azure.com.ico",
     "slug": "zabbix",
     "status": "down",
-    "uptime": "43.29%",
+    "uptime": "43.25%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
-    "time": 3057,
+    "time": 3052,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-18": 28,
+      "2025-03-19": 28,
+      "2025-03-18": 1440,
       "2025-03-17": 1440,
       "2025-03-16": 1440,
       "2025-03-15": 1440,
@@ -1531,8 +1532,7 @@
       "2024-03-23": 1440,
       "2024-03-22": 1440,
       "2024-03-21": 1440,
-      "2024-03-20": 1440,
-      "2024-03-19": 1440
+      "2024-03-20": 1440
     }
   },
   {
@@ -1541,18 +1541,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/grupo-sabra-public-01.eastus.cloudapp.azure.com.ico",
     "slug": "grafana",
     "status": "down",
-    "uptime": "43.29%",
+    "uptime": "43.25%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
-    "time": 2819,
+    "time": 2818,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-18": 28,
+      "2025-03-19": 28,
+      "2025-03-18": 1440,
       "2025-03-17": 1440,
       "2025-03-16": 1440,
       "2025-03-15": 1440,
@@ -1915,8 +1916,7 @@
       "2024-03-23": 1440,
       "2024-03-22": 1440,
       "2024-03-21": 1440,
-      "2024-03-20": 1440,
-      "2024-03-19": 1440
+      "2024-03-20": 1440
     }
   },
   {
@@ -1925,18 +1925,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/jenkins.gruposabra.com.ico",
     "slug": "jenkins",
     "status": "down",
-    "uptime": "54.65%",
+    "uptime": "54.60%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
-    "time": 192,
+    "time": 194,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-18": 28,
+      "2025-03-19": 29,
+      "2025-03-18": 1440,
       "2025-03-17": 1440,
       "2025-03-16": 1440,
       "2025-03-15": 1440,
@@ -2299,8 +2300,7 @@
       "2024-03-23": 1440,
       "2024-03-22": 1440,
       "2024-03-21": 1440,
-      "2024-03-20": 1440,
-      "2024-03-19": 1440
+      "2024-03-20": 1440
     }
   },
   {
@@ -2309,18 +2309,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/jenkins2.gruposabra.com.ico",
     "slug": "jenkins2",
     "status": "down",
-    "uptime": "54.65%",
+    "uptime": "54.60%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
-    "time": 139,
+    "time": 141,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-18": 28,
+      "2025-03-19": 29,
+      "2025-03-18": 1440,
       "2025-03-17": 1440,
       "2025-03-16": 1440,
       "2025-03-15": 1440,
@@ -2683,8 +2684,7 @@
       "2024-03-23": 1440,
       "2024-03-22": 1440,
       "2024-03-21": 1440,
-      "2024-03-20": 1440,
-      "2024-03-19": 1440
+      "2024-03-20": 1440
     }
   },
   {
@@ -2698,13 +2698,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
-    "time": 168,
+    "time": 162,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-18": 28,
+      "2025-03-19": 29,
+      "2025-03-18": 1440,
       "2025-03-17": 1440,
       "2025-03-16": 1440,
       "2025-03-15": 1440,
@@ -3067,8 +3068,7 @@
       "2024-03-23": 1440,
       "2024-03-22": 1440,
       "2024-03-21": 1440,
-      "2024-03-20": 1440,
-      "2024-03-19": 1440
+      "2024-03-20": 1440
     }
   }
 ]
